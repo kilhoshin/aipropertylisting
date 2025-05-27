@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import { GeneratedListings } from '@/types';
-import { Copy, CheckCircle, ArrowLeft, RefreshCw, FileText, MessageSquare, Mail, Sparkles } from 'lucide-react';
+import { Copy, CheckCircle, ArrowLeft, FileText, MessageSquare, Mail, Sparkles } from 'lucide-react';
 
 interface ResultsDisplayProps {
   listings: GeneratedListings;

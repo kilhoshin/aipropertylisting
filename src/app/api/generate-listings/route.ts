@@ -115,7 +115,8 @@ Requirements:
         };
       }
     } catch (error) {
-      // Final fallback
+      // Final fallback - log error for debugging
+      console.error('Email parsing error:', error);
       const emailText = emailResult.response.text();
       const lines = emailText.split('\n').filter(line => line.trim());
       emailData = {
