@@ -171,7 +171,7 @@ This project is proprietary software. All rights reserved.
 
 ## 🆘 Support
 
-For support, email support@aipropertylisting.com or visit our documentation.
+For support, email giro.shin@gmail.com or visit our documentation.
 
 ---
 
